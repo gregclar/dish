@@ -1,6 +1,6 @@
-[![Build Status](https://secure.travis-ci.org/lassebunk/dish.png)](http://travis-ci.org/lassebunk/dish)
+[![Build Status](https://secure.travis-ci.org/gregbclarke/dish.png)](http://travis-ci.org/gregbclarke/dish)
 
-# Dish!
+# Dish! (forked)
 
 ![Dish](http://i.imgur.com/FP1DJmt.png)
 
