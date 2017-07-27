@@ -1,4 +1,4 @@
-[![Build Status](https://secure.travis-ci.org/gregbclarke/dish.png)](http://travis-ci.org/gregbclarke/dish)
+[![Build Status](https://secure.travis-ci.org/gregbclarke/dish.png?branch=master)](http://travis-ci.org/gregbclarke/dish)
 
 # Dish! (forked)
 
